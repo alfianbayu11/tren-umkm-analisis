@@ -18,10 +18,11 @@ def load_data():
 
 # Load data
 data = load_data()
+st.dataframe(data)
 
-# Use Mito spreadsheet for initial exploration
-new_dfs, code = spreadsheet(data)
-st.write(f"Explore the data in detail using Mito:", new_dfs)
+# # Use Mito spreadsheet for initial exploration
+# new_dfs, code = spreadsheet(data)
+# st.write(f"Explore the data in detail using Mito:", new_dfs)
 
 # User selection for visualization
 if "Kabupaten/Kota" not in data.columns:

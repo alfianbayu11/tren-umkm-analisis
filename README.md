@@ -23,3 +23,8 @@ The data on the projection of the number of SMEs in West Java is sourced from th
 ## Notes
 1. Linear regression analysis provides estimates based on historical trends and depends on certain assumptions.
 2. The data used only covers the number of SMEs at the district/city level, so the results of the analysis do not reflect the entire complexity of SME trends in West Java.
+
+
+
+
+[streamlit-app-2023-12-16-15-12-91.webm](https://github.com/alfianbayu11/tren-umkm-analisis/assets/49436348/55b78b56-dc0e-4a00-b849-c3dd1c61778a)
